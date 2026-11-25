@@ -18,3 +18,7 @@ npm run dev
 ```
 
 Open `/health` on the local server to check it’s running.
+
+## Feedback
+
+Found a bug or have a suggestion? Open an issue on GitHub.
